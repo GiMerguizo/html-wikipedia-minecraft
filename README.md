@@ -12,6 +12,9 @@ Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quisere
 
 Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
 
+## O que foi feito
+Foi criado um exemplo de página do Wikipedia com o tema de Jogos, principalmente o Minecraft. 
+
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
